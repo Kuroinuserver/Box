@@ -1,0 +1,9 @@
+enable: true
+maxBox: 10
+# プレイヤーが増やせる最大ボックス数
+flag:
+  connectBox: true
+  # プレイヤーがBOX通信機能を使えるかどうか
+  # この機能を使うと、他のプレイヤーにボックスを共有できる
+  receiveBox: true
+  # プレイヤーがBOXを受け取れるかどうか

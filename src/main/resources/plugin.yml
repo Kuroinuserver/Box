@@ -1,0 +1,8 @@
+name: Box
+version: '${project.version}'
+main: com.kuroinusaba.box.Box
+api-version: '1.19'
+commands:
+  box:
+    description: boxを開きます
+    aliases: [box]
